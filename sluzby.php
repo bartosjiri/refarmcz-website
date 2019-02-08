@@ -18,7 +18,7 @@
       </a>
       <h2 class="header-title" data-aos="fade-up">Služby<br><span>— co můžeme nabídnout</span></h2>
       <div class="header-img" data-aos="slide-left" data-aos-duration="800">
-        <img class="header-img-asd" src="img/headers/sluzby2.jpg">
+        <img class="header-img-asd" src="img/headers/sluzby.jpg">
       </div>
     </header>
 

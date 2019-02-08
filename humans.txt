@@ -1,0 +1,11 @@
+/* AUTHOR */
+	Name: Jiri Bartos
+	Contact: me [at] bartosjiri.com
+	Twitter: @bartosjiri_
+	From: Prague, Czech Republic
+
+/* SITE */
+	Last major update: 2019/02/07
+	Language: Czech
+	Doctype: HTML5
+	Tools: Atom, Transmit, Pixelmator

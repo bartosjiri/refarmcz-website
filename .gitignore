@@ -1,3 +1,6 @@
+### Apple Finder ###
+.DS_Store
+
 ### Compressed ###
 *.7z
 *.deb

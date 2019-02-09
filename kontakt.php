@@ -37,28 +37,28 @@
       </div>
     </section>
 
+    <script type="text/javascript" language="javascript">
+
+        { coded = "akjiVai@9oBV9Y.Cg"
+          key = "I2YUbTQKoZltCB8v6zysqr1E5kOpinhJ4FgMXd9DNuaHxGjmRS0WPe7LAcfV3w"
+          shift = coded.length
+          link = ""
+          for (i=0; i<coded.length; i++) {
+            if (key.indexOf(coded.charAt(i))==-1) {
+              ltr = coded.charAt(i)
+              link += (ltr)
+            } else {
+              ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+              link += (key.charAt(ltr))
+            }
+          }
+          href = "mailto:"+link;
+        $('#contact-email').attr('href', href).html(link);
+        }
+
+    </script>
+
   </div>
 </main>
 
 <?php include 'components/footer.php' ?>
-
-<script type="text/javascript" language="javascript">
-  Barba.Dispatcher.on('transitionCompleted', function(currentStatus, oldStatus, container) {
-    { coded = "akjiVai@9oBV9Y.Cg"
-      key = "I2YUbTQKoZltCB8v6zysqr1E5kOpinhJ4FgMXd9DNuaHxGjmRS0WPe7LAcfV3w"
-      shift = coded.length
-      link = ""
-      for (i=0; i<coded.length; i++) {
-        if (key.indexOf(coded.charAt(i))==-1) {
-          ltr = coded.charAt(i)
-          link += (ltr)
-        } else {
-          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-          link += (key.charAt(ltr))
-        }
-      }
-      href = "mailto:"+link;
-    $('#contact-email').attr('href', href).html(link);
-    }
-  });
-</script>

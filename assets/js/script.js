@@ -119,7 +119,14 @@ $(document).ready(function() {
   Barba.Pjax.getTransition = function() {
     return FadeTransition;
   };
+  Barba.Dispatcher.on('newPageReady', function(currentStatus, oldStatus, container) {
+    var js = container.querySelector("script");
+    if(js != null){
+        eval(js.innerHTML);
+    }
+  });
   Barba.Pjax.start();
+
 
 
   // Element animations

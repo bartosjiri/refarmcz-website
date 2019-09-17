@@ -27,28 +27,20 @@
       <div class="projects-grid">
         <h3 class="projects-grid-title" data-aos="fade-up">Projekty</h3>
         <div class="projects-grid-content">
-          <!-- <div class="projects-grid-content-item" data-aos="fade-up">
-            <a class="projects-grid-content-item-link" href="http://urbanagriculture.directory" target="_blank">
-              <img class="projects-grid-content-item-img" src="img/pages/about.jpg">
-              <h3 class="projects-grid-content-item-title">Urban Agriculture Directory</h3>
-            </a>
-            <p class="projects-grid-content-item-desc">A virtual marketplace that lets companies find students and assign them tasks to be solved.</p>
-          </div> -->
           <div class="projects-grid-content-item" data-aos="fade-up">
             <a class="projects-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
               <img class="projects-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
-              <h3 class="projects-grid-content-item-title">Bohemian Avantgardeners</h3>
+              <h3 class="projects-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="projects-grid-content-item-desc">Návrh přestavby nevyužívané budovy na městský skleník se sociálním a ekonomickým přesahem.</p>
+            <p class="projects-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo. </p>
           </div>
           <div class="projects-grid-content-item" data-aos="fade-up">
-            <a class="projects-grid-content-item-link" href="http://youngspinach.com" target="_blank">
-              <img class="projects-grid-content-item-img" src="img/clients/young-spinach.jpg">
-              <h3 class="projects-grid-content-item-title">Young Spinach</h3>
+            <a class="projects-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+              <img class="projects-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
+              <h3 class="projects-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="projects-grid-content-item-desc">Dokumentované objevování a experimentování s metodami městského zemědělství.</p>
+            <p class="projects-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
-        </div>
       </div>
     </section>
 
@@ -57,19 +49,19 @@
         <h3 class="clients-grid-title" data-aos="fade-up">Klienti</h3>
         <div class="clients-grid-content">
           <div class="clients-grid-content-item" data-aos="fade-up">
-            <a class="clients-grid-content-item-link" href="http://akvaponickeakvarium.cz" target="_blank">
-              <img class="clients-grid-content-item-img" src="img/clients/akvaponicke-akvarium.jpg">
-              <h3 class="clients-grid-content-item-title">Akvaponické akvárium</h3>
+            <a class="clients-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+              <img class="clients-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
+              <h3 class="clients-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="clients-grid-content-item-desc">Spojení chovu akvarijních ryb a hydroponického pěstování rostlin v domácnosti či na veřejnosti.</p>
+            <p class="clients-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
-          <!-- <div class="clients-grid-content-item" data-aos="fade-up">
-            <a class="clients-grid-content-item-link" href="http://medarna.cz" target="_blank">
-              <img class="clients-grid-content-item-img" src="img/pages/about.jpg">
-              <h3 class="clients-grid-content-item-title">Medárna</h3>
+          <div class="clients-grid-content-item" data-aos="fade-up">
+            <a class="clients-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+              <img class="clients-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
+              <h3 class="clients-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="clients-grid-content-item-desc">A virtual marketplace that lets companies find students and assign them tasks to be solved.</p>
-          </div> -->
+            <p class="clients-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
+          </div>
         </div>
       </div>
     </section>

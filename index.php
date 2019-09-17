@@ -47,23 +47,23 @@
           <div class="showcase-grid-content-item" data-aos="fade-up">
             <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
               <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
-              <h3 class="showcase-grid-content-item-title">Bohemian Avantgardeners</h3>
+              <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="showcase-grid-content-item-desc">Návrh přestavby nevyužívané budovy na městský skleník se sociálním a ekonomickým přesahem.</p>
+            <p class="showcase-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
           <div class="showcase-grid-content-item" data-aos="fade-up">
-            <a class="showcase-grid-content-item-link" href="http://www.akvaponickeakvarium.cz" target="_blank">
-              <img class="showcase-grid-content-item-img" src="img/clients/akvaponicke-akvarium.jpg">
-              <h3 class="showcase-grid-content-item-title">Akvaponické akvárium</h3>
+            <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+              <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
+              <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="showcase-grid-content-item-desc">Spojení chovu akvarijních ryb a hydroponického pěstování rostlin v domácnosti či na veřejnosti.</p>
+            <p class="showcase-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
-          <div class="showcase-grid-content-item" data-aos="fade-up">
-            <a class="showcase-grid-content-item-link" href="http://youngspinach.com" target="_blank">
-              <img class="showcase-grid-content-item-img" src="img/clients/young-spinach.jpg">
-              <h3 class="showcase-grid-content-item-title">Young Spinach</h3>
+         <div class="showcase-grid-content-item" data-aos="fade-up">
+            <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+              <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
+              <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>
-            <p class="showcase-grid-content-item-desc">Dokumentované objevování a experimentování s metodami městského zemědělství.</p>
+            <p class="showcase-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
           <span data-aos="fade-up"><a class="showcase-grid-content-link" href="projekty">Další projekty</a></span>
         </div>

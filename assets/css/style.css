@@ -1124,7 +1124,7 @@ section {
 			}
 
 				.about-grid-content-desc-link:hover {
-					color: #00e270;
+					color: #00ab6c;
 				}
 
 	@media screen and (max-width:575.98px) {
@@ -1239,7 +1239,7 @@ section {
 			}
 
 				.showcase-grid-content-item-link:hover .showcase-grid-content-item-title {
-					color: #00e270;
+					color: #00ab6c;
 				}
 
 			.showcase-grid-content-item-desc {
@@ -1258,7 +1258,7 @@ section {
 		}
 
 			.showcase-grid-content-link:hover {
-				color: #00e270;
+				color: #00ab6c;
 			}
 
 	@media screen and (max-width:575.98px) {
@@ -1622,7 +1622,7 @@ section {
 			}
 
 				.projects-grid-content-item-link:hover .projects-grid-content-item-title {
-					color: #00e270;
+					color: #00ab6c;
 				}
 
 			.projects-grid-content-item-desc {
@@ -1764,7 +1764,7 @@ section {
 			}
 
 				.clients-grid-content-item-link:hover .clients-grid-content-item-title {
-					color: #00e270;
+					color: #00ab6c;
 				}
 
 			.clients-grid-content-item-desc {
@@ -1909,7 +1909,7 @@ section {
 			}
 
 				.contact-grid-content-desc-link:hover {
-					color: #00e270;
+					color: #00ab6c;
 				}
 
 	@media screen and (max-width:575.98px) {

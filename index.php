@@ -45,21 +45,21 @@
         <h3 class="showcase-grid-title" data-aos="fade-up">Reference</h3>
         <div class="showcase-grid-content">
           <div class="showcase-grid-content-item" data-aos="fade-up">
-            <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="showcase-grid-content-item-link" href="#" target="_blank">
               <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>
             <p class="showcase-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
           <div class="showcase-grid-content-item" data-aos="fade-up">
-            <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="showcase-grid-content-item-link" href="#" target="_blank">
               <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>
             <p class="showcase-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
-         <div class="showcase-grid-content-item" data-aos="fade-up">
-            <a class="showcase-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+          <div class="showcase-grid-content-item" data-aos="fade-up">
+            <a class="showcase-grid-content-item-link" href="#" target="_blank">
               <img class="showcase-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="showcase-grid-content-item-title">Placeholder</h3>
             </a>

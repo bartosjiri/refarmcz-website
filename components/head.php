@@ -21,10 +21,8 @@
     <?php if($page=='kontakt'){echo 'Spolupracujeme s řadou jednotlivců i firem, které mají chuť a odhodlání něco změnit. Rádi pomůžeme i Vám vytvořit něco, co skutečně dává smysl.' ;} ?>
     <?php if($page!='mise' && $page!='sluzby' && $page!='projekty' && $page!='kontakt'){echo 'Za budoucnost, kde zdravé a udržitelné potraviny jsou dostupné pro všechny. Poskytujeme nástroje, data, znalosti, zkušenosti a kontakty potřebné k úspěchu na poli městského zemědělství.';} ?>
   ">
-  <link rel="canonical" href="http://www.refarm.cz<?php $url = $_SERVER['REQUEST_URI']; echo $url ?>">
+  <link rel="canonical" href="https://refarm.netlify.app<?php $url = $_SERVER['REQUEST_URI']; echo $url ?>">
 
-  <meta name="google-site-verification" content="yMdO89FUn7XcTLG2lBeAdzLTJSO3J5p-2F_oeMcP8N8" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121312601-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -47,15 +45,11 @@
 
   <script type="application/ld+json">
 	  {
-		  "@context": "http://schema.org",
+		  "@context": "https://schema.org",
 			"@type": "Organization",
 			"name": "Refarm",
-			"url": "http://www.refarm.cz",
-			"logo": "http://www.refarm.cz/img/logo/logo.jpg",
-			"sameAs": [
-				"https://www.facebook.com/refarm.cz",
-    		"https://instagram.com/refarm.cz"
-    		]
+			"url": "https://refarm.netlify.app",
+			"logo": "https://refarm.netlify.app/img/logo/logo.jpg"
 	  }
   </script>
 	<script type="application/ld+json">
@@ -64,7 +58,7 @@
 			"@type" : "WebSite",
 			"name" : "Refarm",
 			"alternateName" : "Refarm - Za budoucnost, kde zdravé a udržitelné potraviny jsou dostupné pro všechny.",
-			"url" : "http://www.refarm.cz"
+			"url" : "https://refarm.netlify.app"
 	  }
   </script>
 
@@ -76,7 +70,7 @@
     <?php if($page=='kontakt'){echo 'Spolupracujeme s řadou jednotlivců i firem, které mají chuť a odhodlání něco změnit. Rádi pomůžeme i Vám vytvořit něco, co skutečně dává smysl.' ;} ?>
     <?php if($page!='mise' && $page!='sluzby' && $page!='projekty' && $page!='kontakt'){echo 'Za budoucnost, kde zdravé a udržitelné potraviny jsou dostupné pro všechny. Poskytujeme nástroje, data, znalosti, zkušenosti a kontakty potřebné k úspěchu na poli městského zemědělství.';} ?>
   " />
-  <meta itemprop="image" content="http://www.refarm.cz/img/social/og-image.jpg" />
+  <meta itemprop="image" content="http://refarm.netlify.app/img/social/og-image.jpg" />
 
   <meta property="og:image:width" content="931">
   <meta property="og:image:height" content="488">
@@ -96,7 +90,7 @@
     <?php if($page=='kontakt'){echo 'Spolupracujeme s řadou jednotlivců i firem, které mají chuť a odhodlání něco změnit. Rádi pomůžeme i Vám vytvořit něco, co skutečně dává smysl.' ;} ?>
     <?php if($page!='mise' && $page!='sluzby' && $page!='projekty' && $page!='kontakt'){echo 'Za budoucnost, kde zdravé a udržitelné potraviny jsou dostupné pro všechny. Poskytujeme nástroje, data, znalosti, zkušenosti a kontakty potřebné k úspěchu na poli městského zemědělství.';} ?>
   ">
-  <meta property="og:image" content="http://www.refarm.cz/img/social/og-image.jpg">
+  <meta property="og:image" content="http://refarm.netlify.app/img/social/og-image.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@refarm.cz">
   <meta name="twitter:title" content="
@@ -115,7 +109,7 @@
     <?php if($page=='kontakt'){echo 'Spolupracujeme s řadou jednotlivců i firem, které mají chuť a odhodlání něco změnit. Rádi pomůžeme i Vám vytvořit něco, co skutečně dává smysl.' ;} ?>
     <?php if($page!='mise' && $page!='sluzby' && $page!='projekty' && $page!='kontakt'){echo 'Za budoucnost, kde zdravé a udržitelné potraviny jsou dostupné pro všechny. Poskytujeme nástroje, data, znalosti, zkušenosti a kontakty potřebné k úspěchu na poli městského zemědělství.';} ?>
   ">
-  <meta name="twitter:image" content="http://www.refarm.cz/img/social/twitter-image.jpg">
+  <meta name="twitter:image" content="http://refarm.netlify.app/img/social/twitter-image.jpg">
 
   <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
   <link type="text/css" rel="stylesheet" href="assets/css/aos.css"  />

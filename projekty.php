@@ -28,14 +28,14 @@
         <h3 class="projects-grid-title" data-aos="fade-up">Projekty</h3>
         <div class="projects-grid-content">
           <div class="projects-grid-content-item" data-aos="fade-up">
-            <a class="projects-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="projects-grid-content-item-link" href="#" target="_blank">
               <img class="projects-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="projects-grid-content-item-title">Placeholder</h3>
             </a>
             <p class="projects-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo. </p>
           </div>
           <div class="projects-grid-content-item" data-aos="fade-up">
-            <a class="projects-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="projects-grid-content-item-link" href="#" target="_blank">
               <img class="projects-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="projects-grid-content-item-title">Placeholder</h3>
             </a>
@@ -49,14 +49,14 @@
         <h3 class="clients-grid-title" data-aos="fade-up">Klienti</h3>
         <div class="clients-grid-content">
           <div class="clients-grid-content-item" data-aos="fade-up">
-            <a class="clients-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="clients-grid-content-item-link" href="#" target="_blank">
               <img class="clients-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="clients-grid-content-item-title">Placeholder</h3>
             </a>
             <p class="clients-grid-content-item-desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus luctus egestas leo.</p>
           </div>
           <div class="clients-grid-content-item" data-aos="fade-up">
-            <a class="clients-grid-content-item-link" href="http://avantgardeners.cz" target="_blank">
+            <a class="clients-grid-content-item-link" href="#" target="_blank">
               <img class="clients-grid-content-item-img" src="img/clients/bohemian-avantgardeners.jpg">
               <h3 class="clients-grid-content-item-title">Placeholder</h3>
             </a>

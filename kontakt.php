@@ -29,8 +29,7 @@
         <div class="contact-grid-content" data-aos="fade-up">
           <p class="contact-grid-content-desc">Spolupracujeme s řadou jednotlivců i firem, které mají chuť a odhodlání něco změnit. Rádi pomůžeme i Vám vytvořit něco, co skutečně dává smysl.</p>
           <p class="contact-grid-content-desc">
-            <!-- <span data-aos="fade-up"><a class="about-grid-content-desc-link" href="mailto:kontakt@refarm.cz">kontakt@refarm.cz</a></span> -->
-            <span data-aos='fade-up'><a class="contact-grid-content-desc-link" id="contact-email" href=""></a></span>
+            <span data-aos='fade-up'><a class="contact-grid-content-desc-link" id="contact-email" href="mailto:">contact@domain.cz</a></span>
           </p>
         </div>
 

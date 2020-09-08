@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'Helvetica Neue';
-	src: url('../fonts/HelveticaNeue.ttf');
+	font-family: 'pfv4q5wnzwx0zh5o';
+	src: url('../fonts/pfv4q5wnzwx0zh5o.ttf');
 }
 
 @font-face {
-	font-family: 'Helvetica Neue Medium';
-	src: url('../fonts/HelveticaNeue-Medium.ttf');
+	font-family: 't0ix0p287thrs5j7';
+	src: url('../fonts/t0ix0p287thrs5j7.ttf');
 }
 
 @font-face {
-	font-family: 'Helvetica Neue Bold';
-	src: url('../fonts/HelveticaNeue-Bold.ttf');
+	font-family: 'xdxp6m0evkikm60r';
+	src: url('../fonts/xdxp6m0evkikm60r.ttf');
 }
 
 /* CSS reset */
@@ -69,7 +69,7 @@ html {
 }
 
 body {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: 'pfv4q5wnzwx0zh5o', 'Arial', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -383,7 +383,7 @@ nav {
 
 				.nav-menu-logo-name {
 					display: inline-block;
-					font-family: 'Helvetica Neue Bold', 'Arial', sans-serif;
+					font-family: 'xdxp6m0evkikm60r', 'Arial', sans-serif;
 					font-size: 24px;
 					color: #ffffff;
 					margin-left: 1rem;
@@ -394,7 +394,7 @@ nav {
 			}
 
 				.nav-menu-list-item {
-					font-family: 'Helvetica Neue Bold', 'Arial', sans-serif;
+					font-family: 'xdxp6m0evkikm60r', 'Arial', sans-serif;
 					font-size: 50px;
 					margin-bottom: 50px;
 				}
@@ -408,7 +408,7 @@ nav {
 			}
 
 				.nav-menu-social-desc {
-					font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+					font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
 					font-size: 18px;
 					line-height: 1.2;
 					color: #ffffff;
@@ -624,7 +624,7 @@ header {
 
   .header-logo-name {
 		display: inline-block;
-		font-family: 'Helvetica Neue Bold', 'Arial', sans-serif;
+		font-family: 'xdxp6m0evkikm60r', 'Arial', sans-serif;
     font-size: 24px;
 		margin-left: 1rem;
 		color: #000000;
@@ -643,7 +643,7 @@ header {
 		}
 
   .header-title {
-		font-family: 'Helvetica Neue Bold', 'Arial', sans-serif;
+		font-family: 'xdxp6m0evkikm60r', 'Arial', sans-serif;
     font-size: 40px;
     margin-top: 100px;
     padding-top: 40px;
@@ -775,7 +775,7 @@ footer {
 		padding-top: 40px;
 		margin-bottom: 100px;
 		font-size: 50px;
-		font-family: 'Helvetica Neue Bold', "Arial", sans-serif;
+		font-family: 'xdxp6m0evkikm60r', "Arial", sans-serif;
 		line-height: 1;
 		letter-spacing: -1.5px;
 	}
@@ -801,7 +801,7 @@ footer {
 		.footer-grid-title {
 			grid-column-start: 1;
 	    grid-column-end: 1;
-			font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+			font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
 	    font-size: 18px;
 	    line-height: 30px;
 	    color: #171717;
@@ -964,7 +964,7 @@ section {
 		padding-top: 40px;
 		margin-bottom: 100px;
 		font-size: 50px;
-		font-family: 'Helvetica Neue Bold', "Arial", sans-serif;
+		font-family: 'xdxp6m0evkikm60r', "Arial", sans-serif;
 		line-height: 1;
 		letter-spacing: -1.5px;
 	}
@@ -1092,7 +1092,7 @@ section {
 	.about-grid-title {
 		grid-column-start: 1;
     grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
     font-size: 18px;
     line-height: 30px;
     color: #171717;
@@ -1205,7 +1205,7 @@ section {
 	.showcase-grid-title {
 		grid-column-start: 1;
 		grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
 		font-size: 18px;
 		line-height: 30px;
 		color: #171717;
@@ -1365,7 +1365,7 @@ section {
 	.mission-grid-title {
 		grid-column-start: 1;
     grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
     font-size: 18px;
     line-height: 30px;
     color: #171717;
@@ -1461,7 +1461,7 @@ section {
   .services-grid-title {
     grid-column-start: 1;
     grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
     font-size: 18px;
     line-height: 30px;
     color: #171717;
@@ -1581,7 +1581,7 @@ section {
 	.projects-grid-title {
 		grid-column-start: 1;
 		grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
 		font-size: 18px;
 		line-height: 30px;
 		color: #171717;
@@ -1723,7 +1723,7 @@ section {
 	.clients-grid-title {
 		grid-column-start: 1;
 		grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
 		font-size: 18px;
 		line-height: 30px;
 		color: #171717;
@@ -1877,7 +1877,7 @@ section {
 	.contact-grid-title {
 		grid-column-start: 1;
     grid-column-end: 1;
-		font-family: 'Helvetica Neue Medium', 'Arial', sans-serif;
+		font-family: 't0ix0p287thrs5j7', 'Arial', sans-serif;
     font-size: 18px;
     line-height: 30px;
     color: #171717;

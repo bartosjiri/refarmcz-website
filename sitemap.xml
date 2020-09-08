@@ -7,27 +7,27 @@
 
 
 <url>
-  <loc>http://www.refarm.cz/</loc>
+  <loc>http://refarm.netlify.app/</loc>
   <lastmod>2019-02-07T22:50:50+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.refarm.cz/mise</loc>
+  <loc>http://refarm.netlify.app/mise</loc>
   <lastmod>2019-02-07T22:50:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.refarm.cz/sluzby</loc>
+  <loc>http://refarm.netlify.app/sluzby</loc>
   <lastmod>2019-02-07T22:50:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.refarm.cz/projekty</loc>
+  <loc>http://refarm.netlify.app/projekty</loc>
   <lastmod>2019-02-07T22:50:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.refarm.cz/kontakt</loc>
+  <loc>http://refarm.netlify.app/kontakt</loc>
   <lastmod>2019-02-07T22:50:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
